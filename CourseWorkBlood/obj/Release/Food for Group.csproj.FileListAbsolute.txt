@@ -1,0 +1,10 @@
+c:\users\михаил\Documents\Visual Studio 2017\Projects\CourseWorkBlood\CourseWorkBlood\bin\Release\Food for Group.exe.config
+c:\users\михаил\Documents\Visual Studio 2017\Projects\CourseWorkBlood\CourseWorkBlood\bin\Release\Food for Group.exe
+c:\users\михаил\Documents\Visual Studio 2017\Projects\CourseWorkBlood\CourseWorkBlood\bin\Release\Food for Group.pdb
+c:\users\михаил\Documents\Visual Studio 2017\Projects\CourseWorkBlood\CourseWorkBlood\obj\Release\CourseWorkBlood.Form1.resources
+c:\users\михаил\Documents\Visual Studio 2017\Projects\CourseWorkBlood\CourseWorkBlood\obj\Release\CourseWorkBlood.Info.resources
+c:\users\михаил\Documents\Visual Studio 2017\Projects\CourseWorkBlood\CourseWorkBlood\obj\Release\CourseWorkBlood.Properties.Resources.resources
+c:\users\михаил\Documents\Visual Studio 2017\Projects\CourseWorkBlood\CourseWorkBlood\obj\Release\Food for Group.csproj.GenerateResource.Cache
+c:\users\михаил\Documents\Visual Studio 2017\Projects\CourseWorkBlood\CourseWorkBlood\obj\Release\Food for Group.exe
+c:\users\михаил\Documents\Visual Studio 2017\Projects\CourseWorkBlood\CourseWorkBlood\obj\Release\Food for Group.pdb
+c:\users\михаил\Documents\Visual Studio 2017\Projects\CourseWorkBlood\CourseWorkBlood\obj\Release\Food for Group.csprojResolveAssemblyReference.cache

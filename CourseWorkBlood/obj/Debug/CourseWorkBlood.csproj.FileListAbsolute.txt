@@ -1,0 +1,9 @@
+c:\users\михаил\Documents\Visual Studio 2017\Projects\CourseWorkBlood\CourseWorkBlood\bin\Debug\CourseWorkBlood.exe.config
+c:\users\михаил\Documents\Visual Studio 2017\Projects\CourseWorkBlood\CourseWorkBlood\bin\Debug\CourseWorkBlood.exe
+c:\users\михаил\Documents\Visual Studio 2017\Projects\CourseWorkBlood\CourseWorkBlood\bin\Debug\CourseWorkBlood.pdb
+c:\users\михаил\Documents\Visual Studio 2017\Projects\CourseWorkBlood\CourseWorkBlood\obj\Debug\CourseWorkBlood.csprojResolveAssemblyReference.cache
+c:\users\михаил\Documents\Visual Studio 2017\Projects\CourseWorkBlood\CourseWorkBlood\obj\Debug\CourseWorkBlood.Form1.resources
+c:\users\михаил\Documents\Visual Studio 2017\Projects\CourseWorkBlood\CourseWorkBlood\obj\Debug\CourseWorkBlood.Properties.Resources.resources
+c:\users\михаил\Documents\Visual Studio 2017\Projects\CourseWorkBlood\CourseWorkBlood\obj\Debug\CourseWorkBlood.csproj.GenerateResource.Cache
+c:\users\михаил\Documents\Visual Studio 2017\Projects\CourseWorkBlood\CourseWorkBlood\obj\Debug\CourseWorkBlood.exe
+c:\users\михаил\Documents\Visual Studio 2017\Projects\CourseWorkBlood\CourseWorkBlood\obj\Debug\CourseWorkBlood.pdb
